@@ -11,7 +11,7 @@ class Version extends Eloquent {
 
 	public function changelogs()
 	{
-		return $this->hasManyThrough('Changelog', 'ModVersion', 'version_id', 'type_id')->where('type','mod_versions');
+		return $this->hasManyThrough('Changelog', 'ModVersion', 'version_id', 'item_id')->where('item_type','mod_versions');
 	}
 
 }

@@ -26,7 +26,7 @@ class ModVersion extends Eloquent {
 
 	public function changelogs()
 	{
-		return $this->hasMany('Changelog','type_id','mod_version_id')->where('type','mod_versions');
+		return $this->hasMany('Changelog','item_id','mod_version_id')->where('item_type','mod_versions');
 	}
 
 }

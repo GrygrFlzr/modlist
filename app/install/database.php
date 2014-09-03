@@ -2,6 +2,15 @@
 
 use Illuminate\Database\Capsule\Manager as Capsule;
 
+Capsule::schema()->create('version_types', function ($table)
+{
+	$table->increments('id');
+	$table->string('type');
+	$table->timestamps();
+
+	$table->unique('type');
+});
+
 Capsule::schema()->create('versions', function ($table)
 {
 	$table->increments('id');
@@ -10,7 +19,7 @@ Capsule::schema()->create('versions', function ($table)
 	$table->string('version_minor');
 	$table->string('title');
 	$table->integer('alias')->nullable()->default(null);
-	$table->enum('type', ['release', 'snapshot', 'pre-release']);
+	$table->integer('type')->references('id')->on('version_types');
 	$table->text('description');
 	$table->boolean('homepage')->default(0);
 	$table->boolean('public')->default(0);
@@ -106,11 +115,21 @@ Capsule::schema()->create('mod_authors', function ($table)
 	$table->timestamps();
 });
 
-Capsule::schema()->create('changelogs', function ($table)
+Capsule::schema()->create('changelog_types', function ($table)
 {
 	$table->increments('id');
 	$table->string('type');
-	$table->integer('type_id');
+	$table->timestamps();
+
+	$table->unique('type');
+});
+
+Capsule::schema()->create('changelogs', function ($table)
+{
+	$table->increments('id');
+	$table->integer('type')->references('id')->on('changelog_types');
+	$table->string('item_type');
+	$table->integer('item_id');
 	$table->text('description');
 	$table->text('notes');
 	$table->boolean('visible')->default(1);

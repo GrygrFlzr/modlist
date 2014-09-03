@@ -5,6 +5,7 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 
 use Author as Author;
 use Changelog as Changelog;
+use ChangelogType as ChangelogType;
 use Mod as Mod;
 use ModAuthor as ModAuthor;
 use ModVersion as ModVersion;
@@ -12,6 +13,7 @@ use ModVersionType as ModVersionType;
 use ModVersionDependency as ModVersionDependency;
 use Type as Type;
 use Version as Version;
+use VersionType as VersionType;
 
 class Import {
 
@@ -24,6 +26,9 @@ class Import {
 	var $dependencies = [];
 	
 	var $renamed = [];
+	
+	var $version_types = [];
+	var $changelog_types = [];
 
 	public function __construct($mod_list,$changelogs)
 	{
@@ -33,6 +38,8 @@ class Import {
 
 	public function convert()
 	{
+		$this->initTypes();
+		
 		$start = microtime(true);
 		Capsule::transaction(function()
 		{
@@ -65,6 +72,34 @@ class Import {
 		
 		$this->parseChangelogs();
 	}
+	
+	public function initTypes()
+	{
+		VersionType::unguard();
+		VersionType::create(['type' => 'release']);
+		VersionType::create(['type' => 'pre-release']);
+		VersionType::create(['type' => 'snapshot']);
+		
+		$version_types = VersionType::all();
+		foreach($version_types as $type)
+		{
+			$this->version_types[$type->type] = $type->id;
+		}
+		
+		ChangelogType::unguard();
+		ChangelogType::create(['type' => 'added']);
+		ChangelogType::create(['type' => 'updated']);
+		ChangelogType::create(['type' => 'removed']);
+		
+		$changelog_types = ChangelogType::all();
+		foreach($changelog_types as $type)
+		{
+			$this->changelog_types[$type->type] = $type->id;
+		}
+		
+		//Legacy
+		$this->changelog_types['renamed'] = $this->changelog_types['updated'];
+	}
 
 	public function addVersions($versions)
 	{
@@ -89,7 +124,7 @@ class Import {
 					'version_minor' => $minor,
 					'title' => $version,
 					'alias' => null,
-					'type' => 'release',
+					'type' => $this->version_types['release'],
 					'description' => '',
 					'homepage' => 0,
 					'public' => 1,
@@ -346,13 +381,22 @@ class Import {
 	{
 		$mod = ModVersion::where('version_id',$version_id)->where('title',$name)->first();
 		$description = substr(trim($line), 1);
+		$pieces = explode(' ',$description);
+		$type = strtolower($pieces[0]);
+		
+		if( ! isset($this->changelog_types[$type]) )
+		{
+			echo "Unknown change type '$type'\n";
+			return;
+		}
 		
 		if( ! empty($mod) )
 		{
 			Changelog::unguard();
 			Changelog::create([
-			    'type'        => 'mod_versions',
-			    'type_id'     => $mod->id,
+			    'type'        => $this->changelog_types[$type],
+			    'item_type'   => 'mod_versions',
+			    'item_id'     => $mod->id,
 			    'description' => $description,
 			    'notes'       => '',
 			    'created_at'  => $date,
