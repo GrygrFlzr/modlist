@@ -4,6 +4,7 @@ namespace Modlist;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 use Author as Author;
+use Changelog as Changelog;
 use Mod as Mod;
 use ModAuthor as ModAuthor;
 use ModVersion as ModVersion;
@@ -21,10 +22,13 @@ class Import {
 	var $availabilities = [];
 	
 	var $dependencies = [];
+	
+	var $renamed = [];
 
-	public function __construct($mod_list)
+	public function __construct($mod_list,$changelogs)
 	{
 		$this->mod_list = $mod_list;
+		$this->changelogs = $changelogs;
 	}
 
 	public function convert()
@@ -58,6 +62,8 @@ class Import {
 			$this->resolveModVersionDependencies();
 		});
 		echo "Processed dependencies in " . (microtime(true) - $start) . " seconds\n";
+		
+		$this->parseChangelogs();
 	}
 
 	public function addVersions($versions)
@@ -242,5 +248,117 @@ class Import {
 				]);
 			}
 		}
+	}
+	
+	public function parseChangelogs()
+	{
+		foreach ($this->versions as $version) {
+			$start = microtime(true);
+			$this->renamed = [];
+			$lines = file($this->changelogs . $version->version . ".txt");
+			Capsule::transaction(function() use ($lines, $version)
+			{
+				$this->parseChanges($lines, $version->id);
+			});
+			echo "Processed " . $version->version . " changelog in "
+				. (microtime(true) - $start) . " seconds\n";
+		}
+	}
+	
+	public function parseChanges($lines, $version_id)
+	{
+		$date = '0000-00-00 00:00:00';
+		foreach ($lines as $line)
+		{
+			if( $this->isDate($line) )
+			{
+				$date = $this->parseDate($line);
+			}
+			elseif( $this->shouldProcess($line) )
+			{
+				$this->parseChange($line, $date, $version_id);
+			}
+		}
+	}
+	
+	public function isDate($line)
+	{
+		return substr(trim($line), 0, 1) === '(';
+	}
+	
+	public function parseDate($line)
+	{
+		$date = substr(trim($line), 1, -1);
+		$date = str_replace('/', ' ', $date);
+		$date = strtotime($date);
+		
+		return date('Y-m-d H:i:s', $date);
+	}
+	
+	public function shouldProcess($line)
+	{
+		// Skip author grouping
+		if(strpos($line, '(Which are the following)') !== false)
+		{
+			return false;
+		}
+		
+		// Skip blank lines
+		if(trim($line) === '')
+		{
+			return false;
+		}
+		
+		return true;
+	}
+	
+	public function parseChange($line, $date, $version_id)
+	{
+		preg_match_all('#\"(.*?)\"#', $line, $names);
+		if( empty($names[1]) )
+		{
+			// Old entry format in 1.4.7 and below
+			$trim = trim($line);
+			echo "Cannot parse: $trim\n";
+			return;
+		}
+		$name = $names[1][0];
+		
+		if( $this->isRename($line) )
+		{
+			$this->renamed[$name] = $names[1][1];
+		}
+		if( isset($this->renamed[$name]) )
+		{
+			$name = $this->renamed[$name];
+		}
+		
+		$this->addChange($line, $name, $version_id, $date);
+	}
+	
+	public function isRename($line)
+	{
+		$parts = explode(':', $line);
+		return strpos($parts[0], ' name') !== false;
+	}
+	
+	public function addChange($line, $name, $version_id, $date)
+	{
+		$mod = ModVersion::where('version_id',$version_id)->where('title',$name)->first();
+		$description = substr(trim($line), 1);
+		
+		if( ! empty($mod) )
+		{
+			Changelog::unguard();
+			Changelog::create([
+			    'type'        => 'mod_versions',
+			    'type_id'     => $mod->id,
+			    'description' => $description,
+			    'notes'       => '',
+			    'created_at'  => $date,
+			    'updated_at'  => $date,
+			]);
+		}
+		
 	}
 }
