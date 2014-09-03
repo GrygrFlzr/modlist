@@ -9,4 +9,9 @@ class Version extends Eloquent {
 		return $this->hasMany('ModVersion');
 	}
 
+	public function changelogs()
+	{
+		return $this->hasManyThrough('Changelog', 'ModVersion', 'version_id', 'type_id')->where('type','mod_versions');
+	}
+
 }

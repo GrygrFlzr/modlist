@@ -10,11 +10,26 @@
 		<a href="/version/latest" class="btn btn-primary btn-lg">Latest Mod List &raquo;</a>
 		<a href="/random" class="btn btn-default btn-lg">View Random Mod &raquo;</a>
 	</p>
-	<h2>Versions in our database:</h2>
-	<ul>
-		{% for version in versions %}
-			<li>{{ version.title }}</li>
-		{% endfor %}
-	</ul>
+</div>
+<div class="row home-changelog">
+	{% for version in versions %}
+		<div class="col-sm-6 col-lg-4">
+			<h2>{{ version.title }}</h2>
+			<p><i>Last Updated {{ version.changelogs[0].created_at|date("d F, Y") }}</i></p>
+			<p>
+				{%- for change in version.changelogs -%}
+				{%- if loop.index < 10 -%}
+				<a href="/versions/{{ version.version }}#{{ change.mod.meta.slug }}">
+				{{- change.mod.title -}}
+				</a> - {{ change.description }}<br>
+				{%- endif -%}
+				{%- endfor -%}
+			</p>
+			<p>
+				<a class="btn btn-primary" href="/version/{{ version.version }}">View list &raquo;</a>
+				<a class="btn btn-default" href="/changelog/{{ version.version }}">View all changes &raquo;</a>
+			</p>
+		</div>
+	{% endfor %}
 </div>
 {% endblock %}
