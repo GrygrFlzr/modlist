@@ -1,3 +1,82 @@
+(October/10/2014)
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+	
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Painter's Flower Pot"
+
+(September/23/2014)
+	+Added "Project Zulu: Better Overworld"
+	+Added "Sports Mod"
+
+(September/22/2014)
+	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
+	+Added "Nature Overhaul"
+	+Added "Minecessity"
+	+Added "NoMoreRecipeConflict"
+	+Added "SteamBikes and LawnMower"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "Quidcraft"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+
+(September/12/2014)
+	*Updated "RadarBro" description
+	+Added "OmniTools"
+	+Added "ForgeIRC"
+	-Removed "Better Animations Collection Revived": Download no longer available
+	-Removed "CrackedZombies": Download no longer available
+	-Removed "Parachute Mod": Download no longer available
+	-Removed "Reptile Mod": Download no longer available
+
+(September/04/2014)
+	*Updated "RotaryCraft" info: Added source
+	*Updated "Better Anvils" info: Added source
+	+Added "Essentia Everything"
+	+Added "Doggy Talents Mod"
+	-Removed "The Lord of the Rings Mod": Download no longer available
+
+(September/01/2014)
+	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "Usefulfood" info: Added source
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Health Bars": Download no longer available
+
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Lighting" description and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's SG Craft" description
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
+	*Updated "LavaBoat" info: Added source
+	*Updated "Magic Bees" info: Added source
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Enchanting Plus" info: Updated source
+	*Updated "Atum: Journey Into The Sands" info: Updated source
+	+Added "Greg's Blocks"
+	+Added "Greg's Prospecting"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	+Added "Enhanced Books"
+	-Removed "Gravestone Mod": Download no longer available
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source
 

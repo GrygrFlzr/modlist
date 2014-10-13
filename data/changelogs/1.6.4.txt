@@ -1,3 +1,279 @@
+(October/11/2014)
+	-Removed "Plant Mega Pack": Thread removed by author request
+
+(October/10/2014)
+	+Added "Aroma1997s Portable Recharger"
+	+Added "Brewcraft"
+	+Added "CraftingManager"
+	+Added "Extra Achievements"
+	+Added "Fullscreen Windowed"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "MC+ Mods"
+	+Added "Pet Buddy Mod"
+	+Added "PokeRadar"
+	+Added "Red Gear Core"
+	+Added "RedStone Handguns"
+	+Added "TelePads"
+	+Added "ToolBelt"
+	+Added "Traffic Stuff Mod"
+	+Added "Vanilla CubeItems"
+	+Added "WebChat"
+	+Added "Web Displays"
+	+Added "World Generation Manager"
+	-Removed "Jukebox Fix": Replaced with Jukebox Reloaded
+
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+	
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+	*Updated "Hunger Overhaul" info
+	*Updated "TerraFirmaCraft" info
+	+Added "Creeper Collateral"
+	+Added "Cube World"
+	+Added "Custom Lan Port Mod"
+	+Added "Cute Mob Models"
+	+Added "Forge Essentials"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+	+Added "Painter's Flower Pot"
+
+(September/23/2014)
+	*Updated "Zelda Sword Skills" name: Now "Zelda Sword Skills+"
+	*Updated "Dragon Mounts" source
+	*Updated "Minema" added source
+	*Updated "Mineshot" added source
+	*Updated "EnviroMine" added source
+	+Added "Wither Bow"
+	+Added "Utility Chests Mod"
+	+Added "Better Archery Mod"
+	+Added "Camo Lights Mod"
+	+Added "Project Zulu: Better Overworld"
+	+Added "Enchiridion"
+	+Added "Unique Artifacts"
+	+Added "JumpPad++"
+	-Removed "Painted Stone": Download no longer available
+
+(September/22/2014)
+	*Updated "MineChem" name: Now "Minechem"
+	*Updated "IRCLinqed" info: Added source
+	+Added "Not Enough Keys"
+	+Added "Rotatable Blocks"
+	+Added "iPixeli's Gender Mod"
+	+Added "Fysiks Fun"
+	+Added "Unlit Torches"
+	+Added "Advanced Darkness"
+	+Added "Nature Overhaul"
+	+Added "LevelUp!"
+	+Added "Minecessity"
+	+Added "NoMoreRecipeConflict"
+	+Added "Skill API"
+	+Added "SteamCraft"
+	+Added "NewDungeons"
+	+Added "Magic Wands"
+	+Added "Mystic Mods"
+	+Added "WeCraft Mod"
+	+Added "MoreMinecraft!"
+	+Added "SteamBikes and LawnMower"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "Quidcraft"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+	+Added "MinecraftLoader"
+	+Added "ElectriCraft"
+	+Added "MeteorCraft"
+	+Added "Cave Control"
+	+Added "CritterPet"
+	+Added "LegacyCraft"
+	+Added "Void Monster"
+	+Added "Numina"
+
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "Soul Shards" name: Now "Soul Shards 2"
+	*Updated "Universal Coins Mod" name: Now "Universal Coins"
+	*Updated "Modular Furnaces" name: Now "Modular Furnaces 2"
+	*Updated "Rediscovered Mod" name: Now "The Rediscovered Mod"
+	*Updated "Christmas Festivities Mod" name: Now "Christmas Festivities Mod 2"
+	*Updated "Batman Mod" info: No longer WIP
+	*Updated "Minecraft Comes Alive" info: Added source
+	*Updated "Christmas Festivities Mod 2" info: Added source
+	+Added "Plants Vs Zombies Mod"
+	+Added "Wild Caves 3"
+	+Added "Craftable Animals"
+	+Added "Better Grass & Leaves Mod"
+	+Added "Better Item Despawning"
+	+Added "B&I"
+	+Added "Bedrock Utilities Mod"
+	+Added "Bacon Mod"
+	+Added "Alchemy++"
+	+Added "Mariculture"
+	+Added "Redstone in Motion"
+	+Added "Remain in Motion"
+	+Added "Luppii's Ladders"
+	+Added "RPG Inventory Mod"
+	+Added "The Uncrafting Mod"
+	+Added "Transformer Converters"
+	+Added "Rails of War"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	+Added "AetherCraft"
+	+Added "Mo' Villages"
+	+Added "DivineRPG"
+	+Added "Mo' Chickens"
+	+Added "Ex Aliquo"
+	+Added "Hydraulicraft"
+	+Added "Village Info"
+
+(September/04/2014)
+	*Updated "Cobblestone And Stone Armour" info: Universal
+	*Updated "Xeno's Reliquary" info: Updated source link
+	*Updated "RotaryCraft" info: Added source
+	*Updated "Better Anvils" info: Added source
+	+Added "Technomancy"
+	+Added "TiC Tooltips"
+	+Added "Waila Harvestability"
+	+Added "HarvestCraft Waila Fixes"
+	+Added "The Spice of Life"
+	+Added "Squake"
+	+Added "Squeedometer"
+	+Added "Time-Speed Mod"
+	+Added "MooFluids"
+	+Added "Plugins for Forestry 3"
+	+Added "More Backpacks"
+	+Added "Simple Fluid Tanks"
+	+Added "AbyssalCraft"
+	+Added "Forbidden Magic" Prerelease
+	+Added "Electro-Magic Tools"
+	+Added "Thaumic Reliquary"
+	+Added "Hardcore Ender Expansion"
+	+Added "Better Villages Mod"
+	+Added "WorldEdit": Experimental build
+	+Added "QuarryPlus"
+	-Removed "Jagm's Randoms": Download no longer available
+
+(September/02/2014)
+	*Updated "StopGap" info: Added source
+	*Updated "DrZhark's MagicCarpet Mod" description
+	*Updated "Minegicka II" authors: Renamed Will.Eze to WilliamLe
+	*Updated "Logistics Pipes" info: Added source
+	+Added "Dual Hotbars"
+	+Added "ExtraTiC": Currently in Alpha
+	+Added "TragicMC"
+	+Added "Somnia"
+	+Added "Tinkers' Steelworks"
+	+Added "Thaumic Exploration"
+	+Added "Forestry Extras 2"
+	+Added "Thaumcraft Extras"
+
+(September/01/2014)
+	*Updated "Hunger Overhaul" info: Added source
+	*Updated "Usefulfood" info: Added source
+	*Updated "ICBM" dependencies info
+	*Updated "Walking Dead Mod" name: Now "CrackedZombies"
+	*Updated "PneumaticCraft" info: Added source
+	+Added "Ice Cream Sandwich Creeper Mod"
+	+Added "The Necromancy Mod"
+	+Added "Mob Properties"
+	+Added "Natural Absorption"
+	+Added "XRay"
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "More Nature" mod already exist with name "Animals+"
+
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "Magic Bees" info: Added source
+	*Updated "Metallurgy 3" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
+	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus": Updated source
+	*Updated "SimpleOres" name: Now "SimpleOres 2"
+	*Updated "Power Converters" authors and info: Added portablejim, Added source
+	*Updated "Additional Pipes" info: Added source
+	*Updated "Combo Armors" authors, description and source
+	*Updated "Agriculture" info: Added source
+	*Updated "Aquaculture" info: Added source
+	+Added "Fossils and Archeology Revival"
+	+Added "Ex Nihilo"
+	+Added "Falling Meteors Mod"
+	+Added "Greg's Lighting"
+	+Added "Greg's SG Craft"
+	+Added "Improved First Person"
+	+Added "KeithyUtils"
+	+Added "LavaBoat"
+	+Added "Moar Achievements Redux"
+	+Added "Modular Powersuits"
+	+Added "Mo' Food and Crops"
+	+Added "Nuclear Control"
+	+Added "NumiRP"
+	+Added "Compact WaterMills"
+	+Added "IC2 Classic"
+	+Added "EnviroMine"
+	+Added "No Cubes"
+	+Added "ATG - Alternate Terrain Generation"
+	+Added "Sound Filters"
+	+Added "NEI Addons"
+	+Added "BDLib"
+	+Added "Gendustry"
+	+Added "Pressure Pipes"
+	+Added "Power Utilites"
+	+Added "Resonant Induction"
+	+Added "Resonant Engine"
+	+Added "Modular Force Field System"
+	+Added "Backpack Renderer Add-on"
+	+Added "Atum: Journey Into The Sands"
+	-Removed "Lantern Mod" by FLUFFY: No longer available, alternative version by -Reaper- is available
+	-Removed "Calclavia Core": Download no longer available - replaced with Resonant Engine
+
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
+	*Updated "FpsPlus" link and dependencies info
+	*Updated "Furniture Mod" name: Now "MrCrayfish's Furniture Mod", removed source
+	*Updated "Gravestone Mod" info: No longer requires "ModLoader" and "Player API"
+	*Updated "Iguana Tweaks": Updated source
+	*Updated "Iguana Tweaks for Tinker's Construct": Updated source
+	*Updated "Thaumic Tinkerer": Updated source
+	*Updated "ZZZZZ Custom Configs" info: Added source
+	+Added "CampCraft"
+	+Added "Cartographer"
+	+Added "Christmas Festivities Mod"
+	+Added "Click Mining Fix Fix"
+	+Added "Combo Armors"
+	+Added "Custom Ore Generation: First Revival"
+	+Added "Enhanced Books"
+	+Added "EssentialCraft 2"
+	+Added "Gravitation Suite"
+	+Added "GregTech-Addon"
+	+Added "TerraFirmaCraft"
+	+Added "Xeno's Reliquary"
+	+Added "Extra Bees"
+	+Added "Binnie's Mods"
+	+Added "Better Dungeons"
+	+Added "Better Biomes"
+	+Added "Better Anvils"
+	+Added "Localized Weather & Stormfronts"
+	-Removed "BetterFonts": Download no longer available
+	-Removed "DivineRPG": Download no longer available
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "Agriculture" Dependencies info
+	*Updated "Ars Magica 2" Dependencies info
+	*Updated "4-Space" info: Added source
+	+Added "Advanced Solar Panels"
+	+Added "Aether II"
+	+Added "Aquaculture"
+	+Added "Threaded Lighting"
+
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source
 	*Updated "Iguana Tweaks" name: Now "Iguana Tweaks for Tinker's Construct"

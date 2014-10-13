@@ -1,3 +1,73 @@
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+	
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+	*Updated "Mining Mod" name: Now "The Mining Mod"
+	*Updated "TerraFirmaCraft" info
+
+(September/12/2014)
+	*Updated "Assassin'sCreed ++" info
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "Wild Caves 3"
+	+Added "Craftable Animals"
+	+Added "RadarBro"
+	-Removed "Arcane Ascension"
+	-Removed "The RC Mod": Download no longer available
+
+(September/04/2014)
+	+Added "Better Villages Mod"
+	+Added "Mo' Zombies"
+
+(September/02/2014)
+	*Updated "Logistics Pipes" info: Added source
+	+Added "Mine Little Brony"
+
+(September/01/2014)
+	*Updated "Usefulfood" info: Added source
+	+Added "Lava Monsters"
+	+Added "Special Mobs"
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Father Toast's Mods"
+
+(August/31/2014)
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Hawk's Machinery" description and info: Added source
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from author)
+	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
+	*Updated "Enchanting Plus" info: Updated source
+	+Added "ChickenChunks"
+	+Added "CodeChickenCore"
+	+Added "Ender Storage"
+	+Added "Not Enough Items"
+	+Added "Wireless Redstone: Chicken Bones Edition"
+	+Added "More Furnaces"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	-Removed "Chickenbones Mods"
+	-Removed "Assembly Line": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Electric Expansion": Download no longer available
+
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "Enhanced Books" description and info: Added source
+	*Updated "Xeno's Reliquary" info: Added source
+	-Removed "Extra Bees": Download no longer available
+	-Removed "DivineRPG": Download no longer available
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "3D Items" info: Added source
+
 (August/09/2014)
 	-Removed "Macro/Keybind Mod and LiteLoader": Download no longer available
 

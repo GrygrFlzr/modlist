@@ -1,3 +1,468 @@
+(October/11/2014)
+	-Removed "Plant Mega Pack": Thread removed by author request
+
+(October/10/2014)
+	*Updated "MalisisCore" description
+	*Updated "Underground Biomes Constructs" info: No longer in Beta
+	+Added "Ars Magica 2": Currently in Beta
+	+Added "ChickenChunks"
+	+Added "ComputerCraft"
+	+Added "CraftingManager"
+	+Added "Do It Yourself Decorative Blocks"
+	+Added "Extra Achievements": Currently in Alpha
+	+Added "Extra Peripherals"
+	+Added "Geocraft: Better Ore Distribution 3"
+	+Added "JurassiCraft"
+	+Added "MC+ Mods"
+	+Added "Plant Mega Pack"
+	+Added "Psychedelicraft"
+	+Added "Recurrent Complex"
+	+Added "Red Gear Core"
+	+Added "Spider Queen Reborn"
+	+Added "SteamCraft2": Currently in Beta
+	+Added "TelePads"
+	+Added "TerraFirmaCraft": Currently in Beta
+	+Added "TerraFirmaCraft NEI plugin"
+	+Added "Thirst Mod"
+	+Added "Wireless Redstone: Chicken Bones Edition"
+	+Added "World Generation Manager"
+
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+
+(September/25/2014)
+	*Updated "Applied Energistics 2" added source
+	*Updated "ExtraBiomesXL": Now Release Candidate
+	*Updated "Railcraft" added source
+	+Added "AE2 Tech Add-On": Currently in Beta
+	+Added "Cube World"
+	+Added "Custom Mob Spawner"
+	+Added "Custom Stuff 3": Currently WIP
+	+Added "Cute Mob Models"
+	+Added "Insta House Mod"
+	+Added "Intelligent Energistics": Currently in Alpha
+	+Added "Forge Essentials": Currently in Beta
+	+Added "Dense Ores"
+	+Added "Creeper Collateral"
+	+Added "INpureCore"
+	+Added "MalisisCore"
+	+Added "Malisis' Doors"
+	+Added "MobTalker2": Currently in Alpha
+	+Added "Mo' Creatures"
+	+Added "Modular Systems"
+	+Added "The Amnesia Mod"
+	-Removed "No Cubes": Not available on this version
+
+(September/23/2014)
+	*Updated "Thermal Foundation" info
+	*Updated "Thermal Expansion 4" info
+	*Updated "CoFH Core" info
+	*Updated "CoFH Lib" info
+	*Updated "Redstone Arsenal" info
+	*Updated "Underground Biomes Constructs" authors
+	*Updated "Tinkers' Construct" info
+	*Updated "MineFactory Reloaded" info
+	*Updated "Dragon Mounts" source
+	*Updated "EnviroMine" added source
+	*Updated "Forestry" authors
+	+Added "Zelda Sword Skills+"
+	+Added "Wood Converter"
+	+Added "Weee! Flowers"
+	+Added "Water & Sun Proof Endermen Mod"
+	+Added "Trapcraft"
+	+Added "Torch Levers"
+	+Added "Redstone Armory"
+	+Added "Climate Control": Currently in Beta
+	+Added "Clay Spawn"
+	+Added "Get all the Seeds!"
+	+Added "Simple Recipes"
+	+Added "Temperate Plants"
+	+Added "Easy Crafting"
+	+Added "Project Zulu: Better Overworld"
+	+Added "All-U-Want Inventory Editor"
+	+Added "Better Title Screen"
+	+Added "Crafting Pillar"
+	+Added "Deconstruction Table"
+	+Added "Endermen Don't Pick Up Blocks Mod"
+	+Added "Greg's Lighting"
+	+Added "New Dawn"
+	+Added "Sonic the Hedgehog Mod"
+	+Added "Super Heroes in Minecraft"
+	+Added "TabbyChat"
+	+Added "Team Fortress 2 Mods"
+	+Added "The Ether Mod"
+	+Added "Vanity Blocks"
+	+Added "Alchemy++"
+	+Added "Ancient Warfare"
+	+Added "Better Dungeons"
+	+Added "Blue Vanilla"
+	+Added "Butterfly Mania"
+	+Added "Colorful Armor"
+	+Added "Colourful Portals Mod"
+	+Added "Ex Astris"
+	+Added "Extreme Blocks"
+	+Added "Foundry"
+	+Added "Gizmos"
+	+Added "Hostile Worlds"
+	+Added "LanteaCraft"
+	+Added "Legend of Zelda Mod"
+	+Added "LotsOMobs"
+	+Added "More Potions Mod"
+	+Added "More Tools Mod"
+	+Added "Particle Man"
+	+Added "Pirates"
+	+Added "Random Additions"
+	+Added "Simple Portables"
+	+Added "The Mining Mod"
+	+Added "AppleCore"
+	+Added "Hunger In Peace"
+	+Added "Enchiridion"
+	+Added "RadixCore"
+	+Added "Sports Mod"
+	+Added "Waila NBT"
+	+Added "What's This Pack"
+	+Added "Blood Utils"
+	+Added "Chemlab": Currently in Alpha
+	+Added "JumpPad++"
+	+Added "Custom Music Discs"
+	+Added "Extractination II"
+	+Added "CookieCore"
+	+Added "Better Sugar Cane"
+
+(September/22/2014)
+	*Updated "FluidConverters" info: Added source
+	*Updated "Bagginses" info: Added source
+	+Added "ExtraBiomesXL": Currently in Beta
+	+Added "Luppii's Ladders"
+	+Added "Rotatable Blocks"
+	+Added "Calendar GUI"
+	+Added "iPixeli's Gender Mod"
+	+Added "Invincible Hamster"
+	+Added "Minechem"
+	+Added "Nature Overhaul"
+	+Added "Lemon Land"
+	+Added "LevelUp!"
+	+Added "Minecessity"
+	+Added "NoMoreRecipeConflict"
+	+Added "Skill API"
+	+Added "SteamCraft"
+	+Added "NewDungeons"
+	+Added "ControllerBlock"
+	+Added "Magic Wands"
+	+Added "Mystic Mods"
+	+Added "WeCraft Mod"
+	+Added "MoreMinecraft!"
+	+Added "SteamBikes and LawnMower"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "Quidcraft"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+	+Added "tgame-core"
+	+Added "MinecraftLoader"
+	+Added "Magitek": Currently in Beta
+	+Added "ExpandedRedstone"
+	+Added "GeoStrata": No longer in Beta
+	+Added "ReactorCraft": No longer in Beta
+	+Added "RotaryCraft": No longer in Beta
+	+Added "UsefulTNT"
+	+Added "ElectriCraft"
+	+Added "MeteorCraft"
+	+Added "ChromatiCraft"
+	+Added "Cave Control"
+	+Added "CritterPet"
+	+Added "LegacyCraft"
+	+Added "Void Monster"
+	+Added "Fluxed Trinkets"
+	+Added "More Pistons Mod"
+	+Added "Numina"
+	+Added "Modular Powersuits"
+	+Added "Minestuck"
+	+Added "Cazzar Core Lib"
+	+Added "Jukebox Reloaded"
+
+(September/13/2014)
+	+Added "BigTrees"
+	+Added "Emotes"
+
+(September/12/2014)
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	*Updated "Professor Flaxbeard's Wondrous Steam Power Mod" info: Updated source
+	*Updated "Minecraft Comes Alive" info: Added source
+	+Added "Plants Vs Zombies: Minecraft Warfare"
+	+Added "Wild Caves 3"
+	+Added "Mine Painter"
+	+Added "The Kitchen Mod"
+	+Added "Craftable Animals"
+	+Added "Craft++"
+	+Added "BetterCraft"
+	+Added "Mariculture"
+	+Added "Remain in Motion"
+	+Added "Rei's Minimap"
+	+Added "MapWriter Minimap Mod"
+	+Added "Haycraft"
+	+Added "Flowercraft"
+	+Added "Slabcraft"
+	+Added "Staircraft"
+	+Added "MC Heli Mod"
+	+Added "Tubes!"
+	+Added "AetherCraft"
+	+Added "Modular Furnaces 2"
+	+Added "Mo' Villages"
+	+Added "Soul Shards: Reborn"
+	+Added "Mo' Chickens"
+	+Added "Progressive Automation"
+	+Added "The RC Mod"
+	+Added "Hydraulicraft"
+	+Added "Village Info"
+	-Removed "NuclearPan": Replaced with Ztech
+	-Removed "Electric Fishing Rod": Replaced with Ztech
+
+(September/04/2014)
+	*Updated "Professor Flaxbeard's Wondrous Steam Power Mod" info: Updated source
+	+Added "Automagy": Currently in Beta
+	+Added "Buildcraft Additions"
+	+Added "Nodal Mechanics"
+	+Added "Another One Bites the Dust 2"
+	+Added "Gany's Nether"
+	+Added "Gany's End"
+	+Added "Gany's Surface"
+	+Added "Technomancy"
+	+Added "Modular Force Field System": Currently in Alpha
+	+Added "TiC Tooltips"
+	+Added "Waila Harvestability"
+	+Added "The Spice of Life"
+	+Added "Squake"
+	+Added "Squeedometer"
+	+Added "Time-Speed Mod"
+	+Added "More Backpacks"
+	+Added "Solar Expansion"
+	+Added "Solar Flux"
+	+Added "Zombie Awareness"
+	+Added "Xeno's Reliquary"
+	+Added "Simple Fluid Tanks"
+	+Added "FluidConverters"
+	+Added "CreepyPastaCraft"
+	+Added "AbyssalCraft"
+	+Added "Thaumic Warden": Currently in Beta
+	+Added "Forbidden Magic" Prerelease
+	+Added "Logitech LCD Application for Minecraft"
+	+Added "The Lord of the Rings Mod"
+	+Added "Hardcore Ender Expansion"
+	+Added "Improving Minecraft"
+	+Added "RotaryCraft": Currently in Beta
+	+Added "DragonAPI": Currently in Beta
+	+Added "ReactorCraft": Currently in Beta
+	+Added "GeoStrata": Currently in Beta
+	+Added "Magic Clover"
+	+Added "Cobblestone And Stone Armour"
+	+Added "Better Villages Mod"
+	+Added "The Dalek Mod"
+	+Added "QuarryPlus"
+	+Added "Mo' Zombies"
+	+Added "Doggy Talents Mod"
+	+Added "Better Armor 2"
+
+(September/02/2014)
+	*Updated "StopGap" info: Added source
+	*Updated "Logistics Pipes" info: Added source
+	+Added "ExtraTiC": Currently in Alpha
+	+Added "Dual Hotbars"
+	+Added "TragicMC 2": Currently in Beta
+	+Added "Somnia"
+	+Added "Minegicka 3"
+	+Added "Storage Drawers"
+	+Added "Mine Little Pony: Friendship is Crafting"
+	+Added "Tinkers' Steelworks"
+	+Added "Equivalent Exchange Reborn": Currently WIP
+	+Added "Thaumic Energistics"
+	+Added "Thaumic Exploration"
+	+Added "Forestry Extras 2"
+	+Added "Thaumcraft Extras 2"
+	+Added "WaslieCore"
+
+(September/01/2014)
+	*Updated "Nuclear Control 2" description
+	*Updated "PneumaticCraft" info: Added source
+	*Updated "ZoomMod" info: Now requires Forge, no longer base edit
+	+Added "Advanced Dispensers"
+	+Added "Advanced Genetics"
+	+Added "Aliens Vs Predator"
+	+Added "Amberoguia"
+	+Added "AutoSwitch"
+	+Added "Artifice"
+	+Added "Battle Music"
+	+Added "Better Sprinting"
+	+Added "Blocks3D Mod"
+	+Added "Bloody Dimensions"
+	+Added "BoosterMod"
+	+Added "Cave Generation Mods"
+	+Added "Coolers"
+	+Added "Craftable Horse Armor"
+	+Added "Joypad Mod"
+	+Added "The Necromancy Mod"
+	+Added "Special Mobs"
+	+Added "Deadly World"
+	+Added "Lava Monsters"
+	+Added "Lost Books"
+	+Added "Mob Properties"
+	+Added "Natural Absorption"
+	+Added "CUDA Shaders"
+	+Added "Doge Mod"
+	+Added "Doomlike Dungeons"
+	+Added "Eggy Goodness"
+	+Added "EiraIRC" Release
+	+Added "Extended Workbench"
+	+Added "Familiars Mod"
+	+Added "MrCrayfish's Furniture Mod"
+	+Added "Glenn's Gases"
+	+Added "Goblins and Giants"
+	+Added "Harder Peaceful"
+	+Added "Hopper Ducts"
+	+Added "Improved Mob Spawn"
+	+Added "Jelly Cubes"
+	+Added "JewelryCraft"
+	+Added "Koi"
+	+Added "Kwasti Bust Monsters"
+	+Added "Magical Experience"
+	+Added "MinePix"
+	+Added "Moar Signs"
+	+Added "Mo' Furnaces"
+	+Added "M-Ore Mod"
+	+Added "More Player Models 2"
+	+Added "Multiworld"
+	+Added "Nether Eye"
+	+Added "No Fire Spread"
+	+Added "No Ice Melt"
+	+Added "No Void Fog Mod"
+	+Added "Obsidian Boat"
+	+Added "OnlySilver"
+	+Added "Ore Dictionary Converter"
+	+Added "Paintball"
+	+Added "Pandora's Box"
+	+Added "Parachute Mod"
+	+Added "Peaceful Plus"
+	+Added "Presence Footsteps"
+	+Added "Pumpkin-less Snow Golem"
+	+Added "Rancraft Penguins"
+	+Added "Reptile Mod"
+	+Added "SecurityCraft"
+	+Added "Simple Recipes"
+	+Added "Slime Dungeons"
+	+Added "Stuff Worth Throwing"
+	+Added "SuperCraftingFrame"
+	+Added "Surface Quartz"
+	+Added "ThebombzenAPI"
+	+Added "The Peacefulpack"
+	+Added "Voxel Player Models"
+	+Added "CrackedZombies"
+	+Added "Watson"
+	+Added "XRay"
+	+Added "Ye Gamol Chattels"
+	+Added "Zyin's HUD"
+	+Added "EnderIO" Release
+	+Added "Usefulfood"
+
+(August/31/2014)
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
+	*Updated "IronChests" authors and info: Updated source
+	*Updated "Mine & Blade: Battlegear 2" authors: Added GotoLink
+	*Updated "Combo Armors" authors, description and source
+	*Updated "Electric Fishing Rod" description
+	*Updated "Nuclear Control 2" description
+	*Updated "Aquaculture" info: Added source
+	+Added "Fossils and Archeology Revival"
+	+Added "Falling Meteors Mod"
+	+Added "FinndusFillies"
+	+Added "FlatSigns"
+	+Added "Greg's SG Craft"
+	+Added "Herobrine Mod"
+	+Added "Lantern Mod"
+	+Added "Logistics Pipes"
+	+Added "Magic Bees"
+	+Added "MCPatcher"
+	+Added "Millenaire"
+	+Added "Minecraft Comes Alive"
+	+Added "Minestrappolation"
+	+Added "More Enchantments"
+	+Added "Custom Stuff 2"
+	+Added "More Furnaces"
+	+Added "Multi Page Chest"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	+Added "The Mists of RioV"
+	+Added "Nuclear Control 2"
+	+Added "ObsidiPlates"
+	+Added "Turbo"
+	+Added "Bio Materials"
+	+Added "IC2 Tweaks"
+	+Added "IHL Tools & Machines"
+	+Added "Backpack HUD"
+	+Added "EnetBridge"
+	+Added "IC2 Classic"
+	+Added "EnviroMine"
+	+Added "Enchanting Plus"
+	+Added "No Cubes"
+	+Added "Sound Filters"
+	+Added "Animals+"
+	+Added "NEI Plugins"
+	+Added "NEI Addons"
+	+Added "Sophisticated Wolves"
+	+Added "BDLib"
+	+Added "Advanced Generators"
+	+Added "Gendustry"
+	+Added "Pressure Pipes"
+	+Added "Iridium Mod"
+	+Added "The Barrels Mod"
+	+Added "SimpleOres 2"
+	+Added "Power Converters"
+	+Added "Backpacks (Brad16840)"
+	+Added "Balanced Exchange"
+	+Added "Backpack Renderer Add-on"
+	+Added "NuclearPan"
+	+Added "Atum: Journey Into The Sands"
+
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Elemental Creepers" name: Now "Elemental Creepers - Rebooted"
+	*Updated "Thaumic Tinkerer": Updated source
+	*Updated "ZZZZZ Custom Configs" info: Added source
+	+Added "Click Mining Fix Fix"
+	+Added "Compact Solars"
+	+Added "ControlPack"
+	+Added "Custom Ore Generation: First Revival"
+	+Added "Dragon Mounts"
+	+Added "DungeonPack"
+	+Added "Dynmap"
+	+Added "Enhanced Portals 3"
+	+Added "ExtraCells 2"
+	+Added "FpsPlus"
+	+Added "Gravestone Mod"
+	+Added "Gravitation Suite"
+	+Added "GregTech-Addon"
+	+Added "Iguana Tweaks"
+	+Added "Iguanas Tinker Tweaks"
+	+Added "Thaumcraft Mob Aspects"
+	+Added "Hunger Strike"
+	+Added "Modular Flower Pots"
+	+Added "Extra Buttons"
+	+Added "Binnie's Mods"
+	+Added "Balkon's WeaponMod"
+	+Added "MAtmos"
+	+Added "Localized Weather & Stormfronts"
+	+Added "LomLib"
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	+Added "Lots of Food"
+	+Added "Advanced Machines (immibis)"
+	+Added "Advanced Repulsion Systems"
+	+Added "Advanced Solar Panels"
+	+Added "Aquaculture"
+	+Added "Archimedes' Ships"
+	+Added "Primitive Mobs"
+	+Added "The Farlanders"
+
 (August/28/2014)
 	+Added "CompactChests": Currently in Beta
 	+Added "Flan's Mod"

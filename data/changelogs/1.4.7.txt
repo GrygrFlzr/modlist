@@ -1,3 +1,108 @@
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+	
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+
+(September/22/2014)
+	*Updated "Unlit Torches and Lanterns" name: Now "Unlit Torches"
+	+Added "Minechanics"
+	+Added "SteamShip, SteamBoat and Pirates"
+	+Added "CARuins, GreatWall and WalledCity Generator"
+
+(September/12/2014)
+	*Updated "RadarBro" description
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "The RC Mod"
+	+Added "DivineRPG"
+	*Updated "B.F.Mod" info: Discontinued, no future updates from author
+	*Updated "Cobblestone And Stone Armour" name: Now "Cobblestone And Stone Armor +"
+	-Removed "Rediscovered Mod": Download no longer available
+	-Removed "BetterPistons": Download no longer available
+	-Removed "Arcane Ascension"
+	-Removed "crackedEgg's Mods": Download no longer available
+	-Removed "ShadwDrgn's Mods"
+
+(September/04/2014)
+	*Updated "RotaryCraft" info: Added source
+	*Updated "Better Anvils" info: Added source
+	*Updated "Better Villages Mod" description
+	*Updated "Cobblestone And Stone Armour" info: Requires ModLoader, not Forge
+	+Added "The Lord of the Rings Mod"
+	+Added "Hardcore Ender Expansion"
+
+(September/04/2014)
+	+Added "Time-Speed Mod"
+	+Added "ZombieCraft 3"
+	+Added "Zombie Awareness"
+
+(September/02/2014)
+	*Updated "Logistics Pipes" info: Added source
+	+Added "Mine Little Brony"
+
+(September/01/2014)
+	*Updated "Usefulfood" info: Added source
+	+Added "Lost Books"
+	-Removed "Atomic Science": Download no longer available (Mod merged with Resonant Induction)
+	-Removed "Dungeon Crawler": Download no longer available
+
+(August/31/2014)
+	*Updated "ChickenChunks" info: Added source
+	*Updated "Ender Storage" info: Added source
+	*Updated "Not Enough Items" info: Added source
+	*Updated "Translocator" name and info: Now "Translocators", Added source
+	*Updated "Fossils and Archeology Revival" info: Added source
+	*Updated "Falling Meteors Mod" info: Added source
+	*Updated "Greg's Blocks" description, authors and info: Renamed "gcewing" to "Greg_Ewing", Added source
+	*Updated "Greg's Lighting" description and authors: Renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's Prospecting" description, info: Added source and authors: renamed "gcewing" to "Greg_Ewing"
+	*Updated "Greg's SG Craft" description
+	*Updated "HD Skins and Cloaks" link and info: Added source
+	*Updated "Huge Trees are Huge" info: Added source
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "ID Resolver" link and info: Added source (Discontinued, no future updates from authors)
+	*Updated "Improved First Person" info: No longer requires "Player API"
+	*Updated "InfiCraft" info: Added source (Discontinued, no future updates from author)
+	*Updated "Magic Bees" info: Added source
+	*Updated "BiomeGenerators" dependencies info
+	*Updated "GoldenOrb" dependencies info
+	*Updated "Backpack HUD" name: Now "IC2 Backpack HUD"
+	*Updated "Enchanting Plus" info: Updated source
+	*Updated "Additional Pipes" info: Added source
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	+Added "Bio Materials"
+	+Added "F4113nC0r3"
+	+Added "Advanced Generators 2"
+	+Added "Portable Teleporter"
+	+Added "More Composite Armor"
+	+Added "DeFence"
+	+Added "NEI Addons"
+	-Removed "CubeX2's Mods"
+	-Removed "F4113nb34st's Addons"
+	-Removed "Better Third Person": Download no longer available
+
+(August/30/2014)
+	*Updated "Buildcraft" authors: Added SpaceToad
+	*Updated "Click Mining Fix Fix" info
+	*Updated "Compact Solars" link
+	*Updated "Dimensional Doors" authors: Added SenseiKiwi
+	*Updated "Elemental Creepers" info: Added source
+	*Updated "Enchanting Plus" info: Added source
+	*Updated "Enhanced Books" description and info: Added source
+	*Updated "ExtraButtons" name: Now "Extra Buttons"
+	*Updated "Xeno's Reliquary" info: Added source
+	+Added "CampCraft"
+	-Removed "Gravestone Mod": Download no longer available
+	-Removed "Extra Bees": Download no longer available
+	-Removed "DivineRPG": Download no longer available
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+	*Updated "3D Items" info: Added source
+	*Updated "SettingsAPI" info: Added source
+
 (August/28/2014)
 	*Updated "Flan's Mod" info: Added source
 

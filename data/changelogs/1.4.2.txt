@@ -1,3 +1,45 @@
+(October/03/2014)
+	+Added "Forge Mod Loader (FML)"
+	
+(September/25/2014)
+	*Updated "Custom Mob Spawner" description and info: Requires Forge
+	*Updated "Mining Mod" name: Now "The Mining Mod"
+	+Added "Cube World"
+
+(September/12/2014)
+	+Added "Wild Caves 3"
+	+Added "RadarBro"
+	+Added "ForgeIRC"
+	+Added "Recipe Remover"
+	+Added "Craftable Animals"
+	+Added "In-game NBTEdit"
+
+(September/04/2014)
+	+Added "Better Villages Mod"
+
+(August/31/2014)
+	*Updated "ICBM" authors and info: Added DarkGuardsman, Added source (Discontinued, no future updates from authors)
+	*Updated "Enchanting Plus": Updated source
+	+Added "CodeChickenCore"
+	+Added "Ender Storage"
+	+Added "Not Enough Items"
+	+Added "Falling Meteors Mod"
+	+Added "Greg's Blocks"
+	+Added "Greg's Prospecting"
+	+Added "Hawk's Machinery"
+	+Added "More Furnaces"
+	+Added "Whole Tree Axe"
+	+Added "Chest Transporter"
+	-Removed "Chickenbones Mods"
+
+(August/30/2014)
+	*Updated "Enchanting Plus" info: Added source
+	+Added "CampCraft"
+	-Removed "DivineRPG": Download no longer available
+
+(August/29/2014)
+	*Updated "IndustrialCraft 2" authors: Added Thunderdark, RichardG867, and GregoriusT
+
 (August/09/2014)
 	-Removed "Macro/Keybind Mod and LiteLoader": Download no longer available
 
