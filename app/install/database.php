@@ -158,3 +158,10 @@ Capsule::schema()->create('links', function ($table)
 	$table->timestamps();
 });
 
+Capsule::schema()->create('mod_version_links', function ($table)
+{
+	$table->integer('mod_version_id')->references('id')->on('mod_versions');
+	$table->integer('link_id')->references('id')->on('links');
+	$table->integer('order')->default(1);
+	$table->timestamps();
+});
