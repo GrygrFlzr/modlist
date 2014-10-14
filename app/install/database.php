@@ -150,6 +150,7 @@ Capsule::schema()->create('links', function ($table)
 {
 	$table->increments('id');
 	$table->integer('type')->references('id')->on('link_types');
+	$table->string('link');
 	$table->string('title');
 	$table->string('owner_type');
 	$table->integer('owner_id');
