@@ -136,3 +136,25 @@ Capsule::schema()->create('changelogs', function ($table)
 	$table->timestamps();
 });
 
+Capsule::schema()->create('link_types', function ($table)
+{
+	$table->increments('id');
+	$table->string('type');
+	$table->text('description');
+	$table->timestamps();
+
+	$table->unique('type');
+});
+
+Capsule::schema()->create('links', function ($table)
+{
+	$table->increments('id');
+	$table->integer('type')->references('id')->on('link_types');
+	$table->string('title');
+	$table->string('owner_type');
+	$table->integer('owner_id');
+	$table->text('notes');
+	$table->boolean('visible')->default(1);
+	$table->timestamps();
+});
+
