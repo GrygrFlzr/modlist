@@ -26,7 +26,7 @@ class ModVersion extends Eloquent {
 
 	public function links()
 	{
-		return $this->belongsToMany('Link','mod_version_links','mod_version_id','link_id');
+		return $this->hasMany('Link','link_id','mod_version_id')->where('owner_type','mod_versions');
 	}
 
 	public function changelogs()
